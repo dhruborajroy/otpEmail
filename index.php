@@ -49,9 +49,9 @@ function send_email($email,$html,$subject){
     		'allow_self_signed'=>false
     	));
 	if($mail->send()){
-		echo "done";
+		return "done";
 	}else{
-		echo "Error occur";
+		return "Error occur";
 	}
 }
 echo send_email("Dhruborajroy3@gmail.com",$html,"otp1");
