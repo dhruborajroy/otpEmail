@@ -4,11 +4,11 @@
 	    <div style="border-bottom:1px solid #eee">
 	      <a href="" style="font-size:1.4em;color: #00466a;text-decoration:none;font-weight:600">Lalmonirhat Science & Literature Club</a>
 	    </div>
-	    <p style="font-size:1.1em">Hi, Dhrubo</p>
+	    <p style="font-size:1.1em">Hi, {YOUR_NAME}</p>
 	    <p>Thank you for choosing Your Brand. Use the following OTP to complete your Sign Up procedures. OTP is valid for 5 minutes</p>
 
 	    <div style="display:inline-flex;">
-	    <h2 style="background: #00466a;margin: 0 auto;width: max-content;padding: 0 10px;color: #fff;border-radius: 4px;">'.$otp.'</h2>
+	    <h2 style="background: #00466a;margin: 0 auto;width: max-content;padding: 0 10px;color: #fff;border-radius: 4px;">{OTP_NUMBER}</h2>
 	    <p style="margin-left:10px">OR</p>
 	    <a href="" style="font-size:1.4em;color: #00466a;text-decoration:none;font-weight:600"><h2 style="background: #00466a;margin: 0 auto;width: max-content;padding: 0 10px;color: #fff;border-radius: 4px;margin-left:10px">Verify Email</h2></a>
 	    </div>
